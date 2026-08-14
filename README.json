@@ -14,7 +14,7 @@
             "last_commit": "2026-04-28T14:24:33Z",
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3570
+            "stars": 3571
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-06-08T01:59:02Z",
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2580
+            "stars": 2581
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-06-23T08:47:13Z",
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1814
+            "stars": 1815
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-09-29T10:35:08Z",
             "owner": "mojocn",
             "repo": "base64Captcha",
-            "stars": 2369
+            "stars": 2368
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2024-12-11T08:07:11Z",
             "owner": "dchest",
             "repo": "captcha",
-            "stars": 2061
+            "stars": 2060
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2023-09-22T07:55:51Z",
             "owner": "ArgoZhang",
             "repo": "SliderCaptcha",
-            "stars": 305
+            "stars": 306
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-06-27T11:49:18Z",
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9253
+            "stars": 9256
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2025-11-09T11:37:45Z",
             "owner": "kerlomz",
             "repo": "captcha_trainer",
-            "stars": 3209
+            "stars": 3208
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2022-02-25T08:48:08Z",
             "owner": "ypwhs",
             "repo": "captcha_break",
-            "stars": 2819
+            "stars": 2820
           }
         },
         {
@@ -533,7 +533,7 @@
             "last_commit": "2022-12-08T05:22:24Z",
             "owner": "nickliqian",
             "repo": "cnn_captcha",
-            "stars": 2880
+            "stars": 2879
           }
         },
         {
@@ -620,10 +620,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T05:16:43Z",
+            "last_commit": "2026-08-13T18:00:43Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 75888
+            "stars": 75913
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:10:25.579Z",
+    "last_updated": "2026-08-14T06:07:58.749Z",
     "original_repository": "ZYSzys/awesome-captcha",
     "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",
     "enhanced_repository": "enhansome/enhansome-captcha",
