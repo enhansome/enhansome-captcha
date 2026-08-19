@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24650294,
             "language": "PHP",
             "last_commit": "2026-04-28T14:24:33Z",
             "owner": "google",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9043091,
             "language": "PHP",
             "last_commit": "2026-06-08T01:59:02Z",
             "owner": "mewebstudio",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8970,
             "language": "Ruby",
             "last_commit": "2026-06-19T18:37:13Z",
             "owner": "ambethia",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27513029,
             "language": "PHP",
             "last_commit": "2026-04-01T07:56:36Z",
             "owner": "anhskohbo",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7339809,
             "language": "PHP",
             "last_commit": "2026-06-23T08:47:13Z",
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1815
+            "stars": 1814
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81030492,
             "language": "JavaScript",
             "last_commit": "2024-03-31T10:05:14Z",
             "owner": "trekjs",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30581167,
             "language": "Python",
             "last_commit": "2023-04-17T03:55:24Z",
             "owner": "lorien",
@@ -105,7 +112,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113986555,
             "language": "Go",
             "last_commit": "2025-09-29T10:35:08Z",
             "owner": "mojocn",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1664978,
             "language": "Go",
             "last_commit": "2024-12-11T08:07:11Z",
             "owner": "dchest",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58204059,
             "language": "JavaScript",
             "last_commit": "2024-02-04T23:20:25Z",
             "owner": "produck",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27123519,
             "language": "Python",
             "last_commit": "2025-10-21T06:24:16Z",
             "owner": "lepture",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73688956,
             "language": "Java",
             "last_commit": "2019-04-19T03:35:30Z",
             "owner": "mcxtzhang",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74731559,
             "language": "Java",
             "last_commit": "2018-01-23T13:08:32Z",
             "owner": "jineshfrancs",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7662174,
             "language": "C",
             "last_commit": "2022-02-12T03:58:32Z",
             "owner": "DoubleSpout",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175858522,
             "language": "JavaScript",
             "last_commit": "2023-09-22T07:55:51Z",
             "owner": "ArgoZhang",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4725258,
             "language": "JavaScript",
             "last_commit": "2018-11-20T22:51:37Z",
             "owner": "yocontra",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160741126,
             "language": "Rust",
             "last_commit": "2020-06-04T20:26:22Z",
             "owner": "koto-bank",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 940755631,
             "language": "PHP",
             "last_commit": "2025-02-28T19:14:57Z",
             "owner": "Lokno",
@@ -265,352 +283,372 @@
       "title": "Generation"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dessant/buster",
+              "description": "Captcha solver extension for humans and monsters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158064011,
+                "language": "JavaScript",
+                "last_commit": "2026-06-27T11:49:18Z",
+                "owner": "dessant",
+                "repo": "buster",
+                "stars": 9261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kerlomz/captcha_trainer",
+              "description": "Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145080024,
+                "language": "Python",
+                "last_commit": "2025-11-09T11:37:45Z",
+                "owner": "kerlomz",
+                "repo": "captcha_trainer",
+                "stars": 3211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ypwhs/captcha_break",
+              "description": "Captcha break using CNN with Keras.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82686448,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-25T08:48:08Z",
+                "owner": "ypwhs",
+                "repo": "captcha_break",
+                "stars": 2821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ecthros/uncaptcha",
+              "description": "Defeating Google's audio reCaptcha with 85% accuracy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104973042,
+                "language": "Python",
+                "last_commit": "2018-01-27T16:43:15Z",
+                "owner": "ecthros",
+                "repo": "uncaptcha",
+                "stars": 2807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JasonLiTW/simple-railway-captcha-solver#english-version",
+              "description": "Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 115264341,
+                "language": "Python",
+                "last_commit": "2022-11-18T09:09:57Z",
+                "owner": "JasonLiTW",
+                "repo": "simple-railway-captcha-solver",
+                "stars": 815
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nladuo/captcha-break",
+              "description": "Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59371207,
+                "language": "C++",
+                "last_commit": "2018-11-06T10:51:13Z",
+                "owner": "nladuo",
+                "repo": "captcha-break",
+                "stars": 729
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ptigas/simple-captcha-solver",
+              "description": "Simple CAPTCHA solver in python 🐍.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1380486,
+                "language": "Python",
+                "last_commit": "2018-01-04T02:31:52Z",
+                "owner": "ptigas",
+                "repo": "simple-captcha-solver",
+                "stars": 599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PatrickLib/captcha_recognize",
+              "description": "Image Recognition captcha without image segmentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91751341,
+                "language": "Python",
+                "last_commit": "2023-03-20T16:32:40Z",
+                "owner": "PatrickLib",
+                "repo": "captcha_recognize",
+                "stars": 571
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rickyhan/SimGAN-Captcha",
+              "description": "Solve captcha without manually labeling a training set.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98011560,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-24T11:00:11Z",
+                "owner": "0b01",
+                "repo": "SimGAN-Captcha",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skyduy/CNN_keras",
+              "description": "CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60450044,
+                "language": "Python",
+                "last_commit": "2019-11-18T09:43:24Z",
+                "owner": "skyduy",
+                "repo": "CNN_keras",
+                "stars": 291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lllcho/CAPTCHA-breaking",
+              "description": "Breaking the captcha.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45401801,
+                "language": "Python",
+                "last_commit": "2016-06-21T09:17:09Z",
+                "owner": "lllcho",
+                "repo": "CAPTCHA-breaking",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arunpatala/captcha.irctc",
+              "description": "Reading irctc captchas with 98% accuracy using deep learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52429242,
+                "language": "Lua",
+                "last_commit": "2020-08-05T20:43:49Z",
+                "owner": "arunpatala",
+                "repo": "captcha.irctc",
+                "stars": 215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zhengwh/captcha-svm",
+              "description": "Use svm to hack simple captcha.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99093666,
+                "language": "Python",
+                "last_commit": "2017-08-21T04:39:52Z",
+                "owner": "zhengwh",
+                "repo": "captcha-svm",
+                "stars": 209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chxj1992/captcha_cracker",
+              "description": "Crack captcha with CNN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95006430,
+                "language": "Python",
+                "last_commit": "2022-12-07T23:58:04Z",
+                "owner": "chxj1992",
+                "repo": "captcha_cracker",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arunpatala/captcha",
+              "description": "Breaking captchas using torch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48956478,
+                "language": "Jupyter Notebook",
+                "last_commit": "2016-01-15T18:39:57Z",
+                "owner": "arunpatala",
+                "repo": "captcha",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chxj1992/slide_captcha_cracker",
+              "description": "Crack solution for slide captcha with Canny algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95734709,
+                "language": "Python",
+                "last_commit": "2017-06-29T09:24:31Z",
+                "owner": "chxj1992",
+                "repo": "slide_captcha_cracker",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zakizhou/CAPTCHA",
+              "description": "Implement classification for CAPTCHA in TensorFlow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70329703,
+                "language": "Python",
+                "last_commit": "2017-11-17T11:02:16Z",
+                "owner": "zakizhou",
+                "repo": "CAPTCHA",
+                "stars": 69
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nickliqian/cnn_captcha",
+              "description": "Use cnn recognize captcha by tensorflow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156516517,
+                "language": "Python",
+                "last_commit": "2022-12-08T05:22:24Z",
+                "owner": "nickliqian",
+                "repo": "cnn_captcha",
+                "stars": 2879
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "burness/chinese_hand_write_rec",
+              "description": "Handwritten chinese recognition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73361327,
+                "language": "Python",
+                "last_commit": "2019-05-17T09:05:23Z",
+                "owner": "burness",
+                "repo": "tensorflow-101",
+                "stars": 1109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "muchrooms/zheye",
+              "description": "Chinese captcha recognition program for handstand character of zhihu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60330051,
+                "language": "Python",
+                "last_commit": "2023-10-08T03:10:16Z",
+                "owner": "996refuse",
+                "repo": "zheye",
+                "stars": 792
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "taosir/cnn_handwritten_chinese_recognition",
+              "description": "As the name shows, handwritten_chinese_recognition with cnn.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102559241,
+                "language": "Python",
+                "last_commit": "2022-09-23T22:47:13Z",
+                "owner": "taosir",
+                "repo": "cnn_handwritten_chinese_recognition",
+                "stars": 555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aaronshan/12306-captcha",
+              "description": "Recognize 12306 captcha with deep learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114323128,
+                "language": "Python",
+                "last_commit": "2019-08-30T09:53:40Z",
+                "owner": "aaronshan",
+                "repo": "12306-captcha",
+                "stars": 286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "soloice/Chinese-Character-Recognition",
+              "description": "This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81660663,
+                "language": "Python",
+                "last_commit": "2017-05-06T06:41:55Z",
+                "owner": "soloice",
+                "repo": "Chinese-Character-Recognition",
+                "stars": 205
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chinese"
+        }
+      ],
       "title": "Crack"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dessant/buster",
-          "description": "Captcha solver extension for humans and monsters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-27T11:49:18Z",
-            "owner": "dessant",
-            "repo": "buster",
-            "stars": 9261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kerlomz/captcha_trainer",
-          "description": "Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-09T11:37:45Z",
-            "owner": "kerlomz",
-            "repo": "captcha_trainer",
-            "stars": 3211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ypwhs/captcha_break",
-          "description": "Captcha break using CNN with Keras.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-02-25T08:48:08Z",
-            "owner": "ypwhs",
-            "repo": "captcha_break",
-            "stars": 2821
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ecthros/uncaptcha",
-          "description": "Defeating Google's audio reCaptcha with 85% accuracy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-27T16:43:15Z",
-            "owner": "ecthros",
-            "repo": "uncaptcha",
-            "stars": 2807
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JasonLiTW/simple-railway-captcha-solver#english-version",
-          "description": "Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-11-18T09:09:57Z",
-            "owner": "JasonLiTW",
-            "repo": "simple-railway-captcha-solver",
-            "stars": 815
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nladuo/captcha-break",
-          "description": "Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-11-06T10:51:13Z",
-            "owner": "nladuo",
-            "repo": "captcha-break",
-            "stars": 729
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ptigas/simple-captcha-solver",
-          "description": "Simple CAPTCHA solver in python 🐍.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-04T02:31:52Z",
-            "owner": "ptigas",
-            "repo": "simple-captcha-solver",
-            "stars": 599
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PatrickLib/captcha_recognize",
-          "description": "Image Recognition captcha without image segmentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-20T16:32:40Z",
-            "owner": "PatrickLib",
-            "repo": "captcha_recognize",
-            "stars": 571
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rickyhan/SimGAN-Captcha",
-          "description": "Solve captcha without manually labeling a training set.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-04-24T11:00:11Z",
-            "owner": "0b01",
-            "repo": "SimGAN-Captcha",
-            "stars": 438
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "skyduy/CNN_keras",
-          "description": "CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-18T09:43:24Z",
-            "owner": "skyduy",
-            "repo": "CNN_keras",
-            "stars": 291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lllcho/CAPTCHA-breaking",
-          "description": "Breaking the captcha.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-06-21T09:17:09Z",
-            "owner": "lllcho",
-            "repo": "CAPTCHA-breaking",
-            "stars": 221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arunpatala/captcha.irctc",
-          "description": "Reading irctc captchas with 98% accuracy using deep learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2020-08-05T20:43:49Z",
-            "owner": "arunpatala",
-            "repo": "captcha.irctc",
-            "stars": 215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zhengwh/captcha-svm",
-          "description": "Use svm to hack simple captcha.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-08-21T04:39:52Z",
-            "owner": "zhengwh",
-            "repo": "captcha-svm",
-            "stars": 209
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chxj1992/captcha_cracker",
-          "description": "Crack captcha with CNN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-07T23:58:04Z",
-            "owner": "chxj1992",
-            "repo": "captcha_cracker",
-            "stars": 199
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arunpatala/captcha",
-          "description": "Breaking captchas using torch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2016-01-15T18:39:57Z",
-            "owner": "arunpatala",
-            "repo": "captcha",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chxj1992/slide_captcha_cracker",
-          "description": "Crack solution for slide captcha with Canny algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-06-29T09:24:31Z",
-            "owner": "chxj1992",
-            "repo": "slide_captcha_cracker",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zakizhou/CAPTCHA",
-          "description": "Implement classification for CAPTCHA in TensorFlow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-11-17T11:02:16Z",
-            "owner": "zakizhou",
-            "repo": "CAPTCHA",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JackonYang/captcha-tensorflow",
-          "description": "Image Captcha Solving Using TensorFlow and CNN Model.",
-          "children": []
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nickliqian/cnn_captcha",
-          "description": "Use cnn recognize captcha by tensorflow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-08T05:22:24Z",
-            "owner": "nickliqian",
-            "repo": "cnn_captcha",
-            "stars": 2879
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "burness/chinese_hand_write_rec",
-          "description": "Handwritten chinese recognition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-17T09:05:23Z",
-            "owner": "burness",
-            "repo": "tensorflow-101",
-            "stars": 1109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "muchrooms/zheye",
-          "description": "Chinese captcha recognition program for handstand character of zhihu.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-08T03:10:16Z",
-            "owner": "996refuse",
-            "repo": "zheye",
-            "stars": 792
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "taosir/cnn_handwritten_chinese_recognition",
-          "description": "As the name shows, handwritten_chinese_recognition with cnn.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-23T22:47:13Z",
-            "owner": "taosir",
-            "repo": "cnn_handwritten_chinese_recognition",
-            "stars": 555
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aaronshan/12306-captcha",
-          "description": "Recognize 12306 captcha with deep learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-30T09:53:40Z",
-            "owner": "aaronshan",
-            "repo": "12306-captcha",
-            "stars": 286
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "soloice/Chinese-Character-Recognition",
-          "description": "This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-05-06T06:41:55Z",
-            "owner": "soloice",
-            "repo": "Chinese-Character-Recognition",
-            "stars": 205
-          }
-        }
-      ],
-      "title": "Chinese"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -619,11 +657,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22887094,
             "language": "C++",
             "last_commit": "2026-08-17T06:09:36Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 75986
+            "stars": 75988
           }
         },
         {
@@ -633,6 +672,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3929597,
             "language": "Python",
             "last_commit": "2026-07-30T13:53:47Z",
             "owner": "mbi",
@@ -647,6 +687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1809895,
             "language": "JavaScript",
             "last_commit": "2011-08-22T09:56:03Z",
             "owner": "wjcrowcroft",
@@ -661,6 +702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21308,
             "language": "Ruby",
             "last_commit": "2023-07-13T22:35:41Z",
             "owner": "erik-megarad",
@@ -675,6 +717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1231807,
             "language": "PHP",
             "last_commit": "2023-07-31T17:00:56Z",
             "owner": "dapphp",
@@ -689,6 +732,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30581167,
             "language": "Python",
             "last_commit": "2023-04-17T03:55:24Z",
             "owner": "lorien",
@@ -700,7 +744,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -709,36 +753,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206465,
             "language": "JavaScript",
             "last_commit": "2010-12-29T19:06:30Z",
             "owner": "007",
             "repo": "hashcash-js",
             "stars": 57
           }
-        },
-        {
-          "node_type": "item",
-          "title": "VisualCaptcha",
-          "description": "A collection of all the different versions/repos of visualCaptcha.",
-          "children": []
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": "Please do! Check out the contributing.md file, or open an issue!",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, ZYSzys has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:21:20.348Z",
+    "last_updated": "2026-08-19T12:21:30.903Z",
     "original_repository": "ZYSzys/awesome-captcha",
+    "original_repository_id": 121084517,
     "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",
     "enhanced_repository": "enhansome/enhansome-captcha",
     "enhanced_repository_description": null,
