@@ -15,7 +15,7 @@
             "last_commit": "2026-04-28T14:24:33Z",
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3572
+            "stars": 3573
           }
         },
         {
@@ -299,7 +299,7 @@
                 "last_commit": "2026-06-27T11:49:18Z",
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9261
+                "stars": 9262
               }
             },
             {
@@ -662,7 +662,7 @@
             "last_commit": "2026-08-17T06:09:36Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76018
+            "stars": 76058
           }
         },
         {
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:22:43.654Z",
+    "last_updated": "2026-08-21T05:24:13.683Z",
     "original_repository": "ZYSzys/awesome-captcha",
     "original_repository_id": 121084517,
     "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",
