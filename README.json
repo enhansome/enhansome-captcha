@@ -299,7 +299,7 @@
                 "last_commit": "2026-06-27T11:49:18Z",
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9269
+                "stars": 9270
               }
             },
             {
@@ -662,7 +662,7 @@
             "last_commit": "2026-08-22T05:58:08Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76136
+            "stars": 76146
           }
         },
         {
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:31:02.107Z",
+    "last_updated": "2026-08-24T14:11:18.496Z",
     "original_repository": "ZYSzys/awesome-captcha",
     "original_repository_id": 121084517,
     "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",
