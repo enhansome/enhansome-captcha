@@ -662,7 +662,7 @@
             "last_commit": "2026-08-22T05:58:08Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76168
+            "stars": 76169
           }
         },
         {
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:24:07.888Z",
+    "last_updated": "2026-08-25T06:05:13.775Z",
     "original_repository": "ZYSzys/awesome-captcha",
     "original_repository_id": 121084517,
     "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",

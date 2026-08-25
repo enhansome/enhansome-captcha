@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,168 | 🐛 490 | 🌐 C++ | 📅 2026-08-22 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,169 | 🐛 490 | 🌐 C++ | 📅 2026-08-22 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,422 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 786 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
