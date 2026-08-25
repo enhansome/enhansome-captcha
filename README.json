@@ -75,7 +75,7 @@
             "last_commit": "2026-06-23T08:47:13Z",
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1812
+            "stars": 1813
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2024-12-11T08:07:11Z",
             "owner": "dchest",
             "repo": "captcha",
-            "stars": 2059
+            "stars": 2060
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2024-02-04T23:20:25Z",
             "owner": "produck",
             "repo": "svg-captcha",
-            "stars": 1936
+            "stars": 1937
           }
         },
         {
@@ -662,7 +662,7 @@
             "last_commit": "2026-08-22T05:58:08Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76146
+            "stars": 76168
           }
         },
         {
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:18.496Z",
+    "last_updated": "2026-08-25T05:24:07.888Z",
     "original_repository": "ZYSzys/awesome-captcha",
     "original_repository_id": 121084517,
     "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",

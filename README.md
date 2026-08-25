@@ -23,7 +23,7 @@
 * [mewebstudio/captcha](https://github.com/mewebstudio/captcha) ⭐ 2,581 | 🐛 135 | 🌐 PHP | 📅 2026-06-08 - Captcha for Laravel 5.
 * [ambethia/recaptcha](https://github.com/ambethia/recaptcha) ⭐ 2,005 | 🐛 50 | 🌐 Ruby | 📅 2026-06-19 - ReCaptcha helpers for ruby apps.
 * [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) ⭐ 1,849 | 🐛 54 | 🌐 PHP | 📅 2026-04-01 - No CAPTCHA reCAPTCHA For Laravel.
-* [CGregwar/Captcha](https://github.com/Gregwar/Captcha) ⭐ 1,812 | 🐛 1 | 🌐 PHP | 📅 2026-06-23 - PHP Captcha library.
+* [CGregwar/Captcha](https://github.com/Gregwar/Captcha) ⭐ 1,813 | 🐛 1 | 🌐 PHP | 📅 2026-06-23 - PHP Captcha library.
 * [trekjs/captcha](https://github.com/trekjs/captcha) ⭐ 466 | 🐛 6 | 🌐 JavaScript | 📅 2024-03-31 - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
 * [lorien/captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 259 | 🐛 10 | 🌐 Python | 📅 2023-04-17 - Universal python API to different captcha solving services.
 * [patchca](https://code.google.com/archive/p/patchca) - Simple yet powerful CAPTCHA library written in Java.
@@ -31,8 +31,8 @@
 ## Generation
 
 * [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) ⭐ 2,366 | 🐛 7 | 🌐 Go | 📅 2025-09-29 - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha.
-* [dchest/captcha](https://github.com/dchest/captcha) ⭐ 2,059 | 🐛 4 | 🌐 Go | 📅 2024-12-11 - Go package captcha implements generation and verification of image and audio CAPTCHAs.
-* [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) ⭐ 1,936 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-04 - Generate svg captcha in Node.js.
+* [dchest/captcha](https://github.com/dchest/captcha) ⭐ 2,060 | 🐛 4 | 🌐 Go | 📅 2024-12-11 - Go package captcha implements generation and verification of image and audio CAPTCHAs.
+* [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) ⭐ 1,937 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-04 - Generate svg captcha in Node.js.
 * [lepture/captcha](https://github.com/lepture/captcha) ⭐ 1,100 | 🐛 5 | 🌐 Python | 📅 2025-10-21 - A captcha library that generates audio and image CAPTCHAs.
 * [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) ⭐ 706 | 🐛 5 | 🌐 Java | 📅 2019-04-19 - Swipe captcha of Android platform.
 * [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) ⭐ 611 | 🐛 2 | 🌐 Java | 📅 2018-01-23 - Custom ImageView to generate captcha image.
@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,146 | 🐛 488 | 🌐 C++ | 📅 2026-08-22 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,168 | 🐛 490 | 🌐 C++ | 📅 2026-08-22 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,422 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 786 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
@@ -107,4 +107,4 @@ To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
