@@ -30,7 +30,7 @@
             "last_commit": "2026-06-08T01:59:02Z",
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2581
+            "stars": 2583
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-19T18:37:13Z",
             "owner": "ambethia",
             "repo": "recaptcha",
-            "stars": 2005
+            "stars": 2004
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 7339809,
             "language": "PHP",
-            "last_commit": "2026-06-23T08:47:13Z",
+            "last_commit": "2026-08-27T10:37:48Z",
             "owner": "Gregwar",
             "repo": "Captcha",
             "stars": 1814
@@ -126,7 +126,7 @@
             "last_commit": "2025-09-29T10:35:08Z",
             "owner": "mojocn",
             "repo": "base64Captcha",
-            "stars": 2366
+            "stars": 2367
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2024-12-11T08:07:11Z",
             "owner": "dchest",
             "repo": "captcha",
-            "stars": 2060
+            "stars": 2061
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-10-21T06:24:16Z",
             "owner": "lepture",
             "repo": "captcha",
-            "stars": 1101
+            "stars": 1102
           }
         },
         {
@@ -299,7 +299,7 @@
                 "last_commit": "2026-06-27T11:49:18Z",
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9272
+                "stars": 9277
               }
             },
             {
@@ -329,7 +329,7 @@
                 "last_commit": "2022-02-25T08:48:08Z",
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2822
+                "stars": 2823
               }
             },
             {
@@ -662,7 +662,7 @@
             "last_commit": "2026-08-25T15:34:02Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76185
+            "stars": 76204
           }
         },
         {
@@ -766,9 +766,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:25:53.661Z",
-    "original_repository": "ZYSzys/awesome-captcha",
-    "original_repository_id": 121084517,
+    "last_updated": "2026-08-27T11:28:16.508Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 121084517,
+      "language": "JavaScript",
+      "last_commit": "2026-04-17T22:10:48Z",
+      "owner": "ZYSzys",
+      "repo": "awesome-captcha",
+      "stars": 1420
+    },
     "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",
     "enhanced_repository": "enhansome/enhansome-captcha",
     "enhanced_repository_description": null,
