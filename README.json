@@ -299,7 +299,7 @@
                 "last_commit": "2026-06-27T11:49:18Z",
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9277
+                "stars": 9278
               }
             },
             {
@@ -662,7 +662,7 @@
             "last_commit": "2026-08-25T15:34:02Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76204
+            "stars": 76210
           }
         },
         {
@@ -722,7 +722,7 @@
             "last_commit": "2023-07-31T17:00:56Z",
             "owner": "dapphp",
             "repo": "securimage",
-            "stars": 576
+            "stars": 575
           }
         },
         {
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:16.508Z",
+    "last_updated": "2026-08-27T16:00:47.222Z",
     "original_repository_info": {
       "archived": false,
       "id": 121084517,
