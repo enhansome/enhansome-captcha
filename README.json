@@ -15,8 +15,9 @@
             "last_commit": "2026-04-28T14:24:33Z",
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3574
-          }
+            "stars": 3575
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mewebstudio",
             "repo": "captcha",
             "stars": 2583
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-06-19T18:37:13Z",
             "owner": "ambethia",
             "repo": "recaptcha",
-            "stars": 2004
-          }
+            "stars": 2005
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "anhskohbo",
             "repo": "no-captcha",
             "stars": 1849
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Gregwar",
             "repo": "Captcha",
             "stars": 1814
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "trekjs",
             "repo": "captcha",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "lorien",
             "repo": "captcha_solver",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         }
       ],
       "title": "Libraries"
@@ -127,7 +134,8 @@
             "owner": "mojocn",
             "repo": "base64Captcha",
             "stars": 2367
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "dchest",
             "repo": "captcha",
             "stars": 2061
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2024-02-04T23:20:25Z",
             "owner": "produck",
             "repo": "svg-captcha",
-            "stars": 1937
-          }
+            "stars": 1938
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "lepture",
             "repo": "captcha",
             "stars": 1102
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "mcxtzhang",
             "repo": "SwipeCaptcha",
             "stars": 706
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "jineshfrancs",
             "repo": "CaptchaImageView",
             "stars": 611
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "DoubleSpout",
             "repo": "ccap",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "ArgoZhang",
             "repo": "SliderCaptcha",
             "stars": 306
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "yocontra",
             "repo": "captchagen",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "koto-bank",
             "repo": "kocaptcha",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "Lokno",
             "repo": "click-captcha",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         }
       ],
       "title": "Generation"
@@ -300,7 +318,8 @@
                 "owner": "dessant",
                 "repo": "buster",
                 "stars": 9278
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -315,7 +334,8 @@
                 "owner": "kerlomz",
                 "repo": "captcha_trainer",
                 "stars": 3213
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -330,7 +350,8 @@
                 "owner": "ypwhs",
                 "repo": "captcha_break",
                 "stars": 2823
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -345,7 +366,8 @@
                 "owner": "ecthros",
                 "repo": "uncaptcha",
                 "stars": 2807
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -360,7 +382,8 @@
                 "owner": "JasonLiTW",
                 "repo": "simple-railway-captcha-solver",
                 "stars": 816
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -375,7 +398,8 @@
                 "owner": "nladuo",
                 "repo": "captcha-break",
                 "stars": 729
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -390,7 +414,8 @@
                 "owner": "ptigas",
                 "repo": "simple-captcha-solver",
                 "stars": 600
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -405,7 +430,8 @@
                 "owner": "PatrickLib",
                 "repo": "captcha_recognize",
                 "stars": 571
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -420,7 +446,8 @@
                 "owner": "0b01",
                 "repo": "SimGAN-Captcha",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -435,7 +462,8 @@
                 "owner": "skyduy",
                 "repo": "CNN_keras",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -450,7 +478,8 @@
                 "owner": "lllcho",
                 "repo": "CAPTCHA-breaking",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -465,7 +494,8 @@
                 "owner": "arunpatala",
                 "repo": "captcha.irctc",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -480,7 +510,8 @@
                 "owner": "zhengwh",
                 "repo": "captcha-svm",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -495,7 +526,8 @@
                 "owner": "chxj1992",
                 "repo": "captcha_cracker",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -510,7 +542,8 @@
                 "owner": "arunpatala",
                 "repo": "captcha",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -525,7 +558,8 @@
                 "owner": "chxj1992",
                 "repo": "slide_captcha_cracker",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -540,7 +574,8 @@
                 "owner": "zakizhou",
                 "repo": "CAPTCHA",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             }
           ],
           "description": null,
@@ -562,7 +597,8 @@
                 "owner": "nickliqian",
                 "repo": "cnn_captcha",
                 "stars": 2881
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -577,7 +613,8 @@
                 "owner": "burness",
                 "repo": "tensorflow-101",
                 "stars": 1109
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -592,7 +629,8 @@
                 "owner": "996refuse",
                 "repo": "zheye",
                 "stars": 792
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -607,7 +645,8 @@
                 "owner": "taosir",
                 "repo": "cnn_handwritten_chinese_recognition",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -622,7 +661,8 @@
                 "owner": "aaronshan",
                 "repo": "12306-captcha",
                 "stars": 286
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             },
             {
               "node_type": "item",
@@ -637,7 +677,8 @@
                 "owner": "soloice",
                 "repo": "Chinese-Character-Recognition",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T17:02:52.513Z"
             }
           ],
           "description": null,
@@ -662,8 +703,9 @@
             "last_commit": "2026-08-25T15:34:02Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76210
-          }
+            "stars": 76227
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -678,7 +720,8 @@
             "owner": "mbi",
             "repo": "django-simple-captcha",
             "stars": 1421
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -693,7 +736,8 @@
             "owner": "wjcrowcroft",
             "repo": "MotionCAPTCHA",
             "stars": 822
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -708,7 +752,8 @@
             "owner": "erik-megarad",
             "repo": "negative-captcha",
             "stars": 786
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -723,7 +768,8 @@
             "owner": "dapphp",
             "repo": "securimage",
             "stars": 575
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         },
         {
           "node_type": "item",
@@ -738,7 +784,8 @@
             "owner": "lorien",
             "repo": "captcha_solver",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         }
       ],
       "title": "Tools"
@@ -759,14 +806,15 @@
             "owner": "007",
             "repo": "hashcash-js",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T17:02:52.513Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:00:47.222Z",
+    "last_updated": "2026-08-28T17:02:52.513Z",
     "original_repository_info": {
       "archived": false,
       "id": 121084517,
@@ -774,7 +822,7 @@
       "last_commit": "2026-04-17T22:10:48Z",
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1420
+      "stars": 1421
     },
     "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",
     "enhanced_repository": "enhansome/enhansome-captcha",
