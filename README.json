@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2583,
+            "stars": 2584,
             "topics": [
               "captcha",
               "laravel",
@@ -245,7 +245,7 @@
             "open_issues": 4,
             "owner": "dchest",
             "repo": "captcha",
-            "stars": 2061,
+            "stars": 2062,
             "topics": [
               "audio-captchas",
               "captcha",
@@ -488,7 +488,7 @@
                 "open_issues": 49,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9278,
+                "stars": 9281,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -1084,10 +1084,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:34:02Z",
-            "open_issues": 490,
+            "open_issues": 489,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76243,
+            "stars": 76255,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:25:31.976Z",
+    "last_updated": "2026-08-30T10:11:49.787Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
