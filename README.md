@@ -22,7 +22,7 @@
 * [google/recaptcha](https://github.com/google/recaptcha) ⭐ 3,576 | 🐛 6 | 🌐 PHP | 📅 2026-04-28 - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 * [mewebstudio/captcha](https://github.com/mewebstudio/captcha) ⭐ 2,584 | 🐛 133 | 🌐 PHP | 📅 2026-08-28 - Captcha for Laravel 5.
 * [ambethia/recaptcha](https://github.com/ambethia/recaptcha) ⭐ 2,005 | 🐛 50 | 🌐 Ruby | 📅 2026-06-19 - ReCaptcha helpers for ruby apps.
-* [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) ⭐ 1,849 | 🐛 54 | 🌐 PHP | 📅 2026-04-01 - No CAPTCHA reCAPTCHA For Laravel.
+* [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) ⭐ 1,848 | 🐛 54 | 🌐 PHP | 📅 2026-04-01 - No CAPTCHA reCAPTCHA For Laravel.
 * [CGregwar/Captcha](https://github.com/Gregwar/Captcha) ⭐ 1,815 | 🐛 2 | 🌐 PHP | 📅 2026-08-27 - PHP Captcha library.
 * [trekjs/captcha](https://github.com/trekjs/captcha) ⭐ 466 | 🐛 6 | 🌐 JavaScript | 📅 2024-03-31 - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
 * [lorien/captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 259 | 🐛 10 | 🌐 Python | 📅 2023-04-17 - Universal python API to different captcha solving services.
@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,255 | 🐛 489 | 🌐 C++ | 📅 2026-08-25 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,277 | 🐛 489 | 🌐 C++ | 📅 2026-08-25 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,421 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 786 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
@@ -107,4 +107,4 @@ To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

@@ -97,7 +97,7 @@
             "open_issues": 54,
             "owner": "anhskohbo",
             "repo": "no-captcha",
-            "stars": 1849,
+            "stars": 1848,
             "topics": [
               "captcha",
               "captcha-recaptcha",
@@ -1087,7 +1087,7 @@
             "open_issues": 489,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76255,
+            "stars": 76277,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:11:49.787Z",
+    "last_updated": "2026-08-31T11:15:10.176Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
