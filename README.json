@@ -321,7 +321,7 @@
             "open_issues": 5,
             "owner": "mcxtzhang",
             "repo": "SwipeCaptcha",
-            "stars": 706,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-28T17:02:52.513Z"
@@ -920,7 +920,7 @@
                 "open_issues": 97,
                 "owner": "nickliqian",
                 "repo": "cnn_captcha",
-                "stars": 2881,
+                "stars": 2880,
                 "topics": [
                   "cnn",
                   "python",
@@ -1087,7 +1087,7 @@
             "open_issues": 489,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76277,
+            "stars": 76287,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:15:10.176Z",
+    "last_updated": "2026-09-01T09:40:53.048Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",

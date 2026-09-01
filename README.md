@@ -34,7 +34,7 @@
 * [dchest/captcha](https://github.com/dchest/captcha) ⭐ 2,062 | 🐛 4 | 🌐 Go | 📅 2024-12-11 - Go package captcha implements generation and verification of image and audio CAPTCHAs.
 * [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) ⭐ 1,936 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-04 - Generate svg captcha in Node.js.
 * [lepture/captcha](https://github.com/lepture/captcha) ⭐ 1,102 | 🐛 5 | 🌐 Python | 📅 2025-10-21 - A captcha library that generates audio and image CAPTCHAs.
-* [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) ⭐ 706 | 🐛 5 | 🌐 Java | 📅 2019-04-19 - Swipe captcha of Android platform.
+* [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) ⭐ 707 | 🐛 5 | 🌐 Java | 📅 2019-04-19 - Swipe captcha of Android platform.
 * [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) ⭐ 611 | 🐛 2 | 🌐 Java | 📅 2018-01-23 - Custom ImageView to generate captcha image.
 * [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) ⭐ 478 | 🐛 21 | 🌐 C | 📅 2022-02-12 - Node.js generate captcha using c++ library CImg without install any other lib or software.
 * [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) ⭐ 306 | 🐛 11 | 🌐 JavaScript | 📅 2023-09-22 - Slider captcha supporting mobile.
@@ -70,7 +70,7 @@
 
 ### Chinese
 
-* [nickliqian/cnn\_captcha](https://github.com/nickliqian/cnn_captcha) ⭐ 2,881 | 🐛 97 | 🌐 Python | 📅 2022-12-08 - Use cnn recognize captcha by tensorflow.
+* [nickliqian/cnn\_captcha](https://github.com/nickliqian/cnn_captcha) ⭐ 2,880 | 🐛 97 | 🌐 Python | 📅 2022-12-08 - Use cnn recognize captcha by tensorflow.
 * [burness/chinese\_hand\_write\_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) ⭐ 1,109 | 🐛 10 | 🌐 Python | 📅 2019-05-17 - Handwritten chinese recognition.
 * [muchrooms/zheye](https://github.com/muchrooms/zheye) ⭐ 792 | 🐛 5 | 🌐 Python | 📅 2023-10-08 - Chinese captcha recognition program for handstand character of zhihu.
 * [taosir/cnn\_handwritten\_chinese\_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) ⭐ 555 | 🐛 12 | 🌐 Python | 📅 2022-09-23 - As the name shows, handwritten\_chinese\_recognition with cnn.
@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,277 | 🐛 489 | 🌐 C++ | 📅 2026-08-25 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,287 | 🐛 489 | 🌐 C++ | 📅 2026-08-25 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,421 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 786 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
@@ -107,4 +107,4 @@ To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
