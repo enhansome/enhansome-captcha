@@ -119,7 +119,7 @@
             "id": 7339809,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-27T10:37:48Z",
+            "last_commit": "2026-09-01T15:17:16Z",
             "open_issues": 2,
             "owner": "Gregwar",
             "repo": "Captcha",
@@ -213,7 +213,7 @@
             "open_issues": 7,
             "owner": "mojocn",
             "repo": "base64Captcha",
-            "stars": 2367,
+            "stars": 2368,
             "topics": [
               "anti-spam",
               "arithmetic-captcha",
@@ -920,7 +920,7 @@
                 "open_issues": 97,
                 "owner": "nickliqian",
                 "repo": "cnn_captcha",
-                "stars": 2880,
+                "stars": 2881,
                 "topics": [
                   "cnn",
                   "python",
@@ -1083,11 +1083,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-25T15:34:02Z",
-            "open_issues": 489,
+            "last_commit": "2026-09-02T08:50:46Z",
+            "open_issues": 485,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76287,
+            "stars": 76303,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:40:53.048Z",
+    "last_updated": "2026-09-02T09:11:49.546Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1266,7 +1266,7 @@
       "open_issues": 11,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1421,
+      "stars": 1420,
       "topics": [
         "awesome",
         "awesome-list",
