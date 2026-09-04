@@ -175,7 +175,7 @@
             "open_issues": 10,
             "owner": "lorien",
             "repo": "captcha_solver",
-            "stars": 259,
+            "stars": 258,
             "topics": [
               "antigate",
               "api",
@@ -245,7 +245,7 @@
             "open_issues": 4,
             "owner": "dchest",
             "repo": "captcha",
-            "stars": 2062,
+            "stars": 2063,
             "topics": [
               "audio-captchas",
               "captcha",
@@ -488,7 +488,7 @@
                 "open_issues": 49,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9284,
+                "stars": 9286,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -517,7 +517,7 @@
                 "open_issues": 67,
                 "owner": "kerlomz",
                 "repo": "captcha_trainer",
-                "stars": 3212,
+                "stars": 3211,
                 "topics": [
                   "captcha-recognition",
                   "ocr",
@@ -543,7 +543,7 @@
                 "open_issues": 50,
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2823,
+                "stars": 2822,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -1087,7 +1087,7 @@
             "open_issues": 484,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76314,
+            "stars": 76333,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1206,7 +1206,7 @@
             "open_issues": 10,
             "owner": "lorien",
             "repo": "captcha_solver",
-            "stars": 259,
+            "stars": 258,
             "topics": [
               "antigate",
               "api",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:19:10.627Z",
+    "last_updated": "2026-09-04T09:13:03.471Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
