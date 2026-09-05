@@ -20,12 +20,12 @@
 ## Libraries
 
 * [google/recaptcha](https://github.com/google/recaptcha) ⭐ 3,576 | 🐛 6 | 🌐 PHP | 📅 2026-04-28 - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
-* [mewebstudio/captcha](https://github.com/mewebstudio/captcha) ⭐ 2,583 | 🐛 133 | 🌐 PHP | 📅 2026-08-28 - Captcha for Laravel 5.
+* [mewebstudio/captcha](https://github.com/mewebstudio/captcha) ⭐ 2,584 | 🐛 133 | 🌐 PHP | 📅 2026-08-28 - Captcha for Laravel 5.
 * [ambethia/recaptcha](https://github.com/ambethia/recaptcha) ⭐ 2,005 | 🐛 50 | 🌐 Ruby | 📅 2026-06-19 - ReCaptcha helpers for ruby apps.
-* [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) ⭐ 1,848 | 🐛 54 | 🌐 PHP | 📅 2026-04-01 - No CAPTCHA reCAPTCHA For Laravel.
+* [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) ⭐ 1,847 | 🐛 54 | 🌐 PHP | 📅 2026-04-01 - No CAPTCHA reCAPTCHA For Laravel.
 * [CGregwar/Captcha](https://github.com/Gregwar/Captcha) ⭐ 1,816 | 🐛 2 | 🌐 PHP | 📅 2026-09-01 - PHP Captcha library.
 * [trekjs/captcha](https://github.com/trekjs/captcha) ⭐ 466 | 🐛 6 | 🌐 JavaScript | 📅 2024-03-31 - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
-* [lorien/captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 258 | 🐛 10 | 🌐 Python | 📅 2023-04-17 - Universal python API to different captcha solving services.
+* [lorien/captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 258 | 🐛 9 | 🌐 Python | 📅 2026-09-04 - Universal python API to different captcha solving services.
 * [patchca](https://code.google.com/archive/p/patchca) - Simple yet powerful CAPTCHA library written in Java.
 
 ## Generation
@@ -49,13 +49,13 @@
 
 ### General
 
-* [dessant/buster](https://github.com/dessant/buster) ⭐ 9,286 | 🐛 49 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans and monsters.
-* [kerlomz/captcha\_trainer](https://github.com/kerlomz/captcha_trainer) ⭐ 3,211 | 🐛 67 | 🌐 Python | 📅 2025-11-09 - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
+* [dessant/buster](https://github.com/dessant/buster) ⭐ 9,287 | 🐛 49 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans and monsters.
+* [kerlomz/captcha\_trainer](https://github.com/kerlomz/captcha_trainer) ⭐ 3,212 | 🐛 67 | 🌐 Python | 📅 2025-11-09 - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 * [ypwhs/captcha\_break](https://github.com/ypwhs/captcha_break) ⭐ 2,822 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2022-02-25 - Captcha break using CNN with Keras.
 * [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) ⭐ 2,807 | 🐛 0 | 🌐 Python | 📅 2018-01-27 - Defeating Google's audio reCaptcha with 85% accuracy.
 * [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) ⚠️ Archived - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
 * [nladuo/captcha-break](https://github.com/nladuo/captcha-break) ⭐ 729 | 🐛 2 | 🌐 C++ | 📅 2018-11-06 - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
-* [ptigas/simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) ⭐ 600 | 🐛 6 | 🌐 Python | 📅 2018-01-04 - Simple CAPTCHA solver in python 🐍.
+* [ptigas/simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) ⭐ 599 | 🐛 6 | 🌐 Python | 📅 2018-01-04 - Simple CAPTCHA solver in python 🐍.
 * [PatrickLib/captcha\_recognize](https://github.com/PatrickLib/captcha_recognize) ⭐ 571 | 🐛 23 | 🌐 Python | 📅 2023-03-20 - Image Recognition captcha without image segmentation.
 * [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) ⭐ 438 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-04-24 - Solve captcha without manually labeling a training set.
 * [skyduy/CNN\_keras](https://github.com/skyduy/CNN_keras) ⭐ 291 | 🐛 1 | 🌐 Python | 📅 2019-11-18 - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
@@ -70,7 +70,7 @@
 
 ### Chinese
 
-* [nickliqian/cnn\_captcha](https://github.com/nickliqian/cnn_captcha) ⭐ 2,880 | 🐛 97 | 🌐 Python | 📅 2022-12-08 - Use cnn recognize captcha by tensorflow.
+* [nickliqian/cnn\_captcha](https://github.com/nickliqian/cnn_captcha) ⭐ 2,882 | 🐛 97 | 🌐 Python | 📅 2022-12-08 - Use cnn recognize captcha by tensorflow.
 * [burness/chinese\_hand\_write\_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) ⭐ 1,109 | 🐛 10 | 🌐 Python | 📅 2019-05-17 - Handwritten chinese recognition.
 * [muchrooms/zheye](https://github.com/muchrooms/zheye) ⭐ 792 | 🐛 5 | 🌐 Python | 📅 2023-10-08 - Chinese captcha recognition program for handstand character of zhihu.
 * [taosir/cnn\_handwritten\_chinese\_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) ⭐ 555 | 🐛 12 | 🌐 Python | 📅 2022-09-23 - As the name shows, handwritten\_chinese\_recognition with cnn.
@@ -79,12 +79,12 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,333 | 🐛 484 | 🌐 C++ | 📅 2026-09-02 - Tesseract Open Source OCR Engine.
-* [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,421 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,347 | 🐛 483 | 🌐 C++ | 📅 2026-09-02 - Tesseract Open Source OCR Engine.
+* [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,420 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 786 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
 * [Securimage](https://github.com/dapphp/securimage) ⭐ 575 | 🐛 20 | 🌐 PHP | 📅 2023-07-31 - PHP CAPTCHA Script.
-* [Captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 258 | 🐛 10 | 🌐 Python | 📅 2023-04-17 - Univeral API to captcha solving services.
+* [Captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 258 | 🐛 9 | 🌐 Python | 📅 2026-09-04 - Univeral API to captcha solving services.
 
 ## Other
 
@@ -107,4 +107,4 @@ To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
