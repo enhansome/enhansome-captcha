@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2584,
+            "stars": 2585,
             "topics": [
               "captcha",
               "laravel",
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1816,
+            "stars": 1817,
             "topics": [
               "anti-bot",
               "anti-spam",
@@ -485,10 +485,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-27T11:49:18Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9288,
+                "stars": 9289,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -572,10 +572,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2018-01-27T16:43:15Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ecthros",
                 "repo": "uncaptcha",
-                "stars": 2807,
+                "stars": 2808,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:02:52.513Z"
@@ -625,7 +625,7 @@
                 "open_issues": 2,
                 "owner": "nladuo",
                 "repo": "captcha-break",
-                "stars": 729,
+                "stars": 727,
                 "topics": [
                   "captcha",
                   "captcha-break",
@@ -1087,7 +1087,7 @@
             "open_issues": 483,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76354,
+            "stars": 76375,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:04:06.809Z",
+    "last_updated": "2026-09-07T09:51:07.469Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
