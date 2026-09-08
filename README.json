@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3575,
+            "stars": 3576,
             "topics": [
               "abuse",
               "recaptcha",
@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2585,
+            "stars": 2586,
             "topics": [
               "captcha",
               "laravel",
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1817,
+            "stars": 1819,
             "topics": [
               "anti-bot",
               "anti-spam",
@@ -271,7 +271,7 @@
             "open_issues": 24,
             "owner": "produck",
             "repo": "svg-captcha",
-            "stars": 1935,
+            "stars": 1934,
             "topics": [
               "captcha",
               "captcha-alternative",
@@ -298,7 +298,7 @@
             "open_issues": 5,
             "owner": "lepture",
             "repo": "captcha",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "captcha"
             ]
@@ -488,7 +488,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9289,
+                "stars": 9290,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -543,7 +543,7 @@
                 "open_issues": 50,
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2822,
+                "stars": 2821,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -652,7 +652,7 @@
                 "open_issues": 6,
                 "owner": "ptigas",
                 "repo": "simple-captcha-solver",
-                "stars": 599,
+                "stars": 600,
                 "topics": [
                   "captcha-solver",
                   "python"
@@ -779,7 +779,7 @@
                 "open_issues": 16,
                 "owner": "arunpatala",
                 "repo": "captcha.irctc",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:02:52.513Z"
@@ -1087,7 +1087,7 @@
             "open_issues": 483,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76375,
+            "stars": 76391,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:51:07.469Z",
+    "last_updated": "2026-09-08T09:15:32.298Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1266,7 +1266,7 @@
       "open_issues": 11,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1420,
+      "stars": 1421,
       "topics": [
         "awesome",
         "awesome-list",
