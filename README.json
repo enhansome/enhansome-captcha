@@ -213,7 +213,7 @@
             "open_issues": 7,
             "owner": "mojocn",
             "repo": "base64Captcha",
-            "stars": 2368,
+            "stars": 2365,
             "topics": [
               "anti-spam",
               "arithmetic-captcha",
@@ -245,7 +245,7 @@
             "open_issues": 4,
             "owner": "dchest",
             "repo": "captcha",
-            "stars": 2063,
+            "stars": 2061,
             "topics": [
               "audio-captchas",
               "captcha",
@@ -367,7 +367,7 @@
             "open_issues": 21,
             "owner": "DoubleSpout",
             "repo": "ccap",
-            "stars": 478,
+            "stars": 477,
             "topics": []
           },
           "first_seen": "2026-08-28T17:02:52.513Z"
@@ -543,7 +543,7 @@
                 "open_issues": 50,
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2821,
+                "stars": 2822,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -1087,7 +1087,7 @@
             "open_issues": 483,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76391,
+            "stars": 76404,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1254,7 +1254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:15:32.298Z",
+    "last_updated": "2026-09-09T09:18:51.391Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1266,7 +1266,7 @@
       "open_issues": 11,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1421,
+      "stars": 1422,
       "topics": [
         "awesome",
         "awesome-list",
