@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "captcha",
               "laravel",
@@ -190,6 +190,48 @@
             ]
           },
           "first_seen": "2026-08-28T17:02:52.513Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebDecoy/FCaptcha",
+          "description": "Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted, invisible CAPTCHA that detects AI agents driving real browsers. GDPR, WCAG 2.2 AA, and EAA: no cookies, no third-party data sharing, and no visual or audio puzzle. With a false-positive budget enforced in CI. Proof of work, drop-in for Turnstile and reCAPTCHA.",
+            "homepage": "https://webdecoy.com/product/fcaptcha/",
+            "id": 1124476057,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-09T18:38:17Z",
+            "open_issues": 0,
+            "owner": "WebDecoy",
+            "repo": "FCaptcha",
+            "stars": 207,
+            "topics": [
+              "ai-bot-detection",
+              "anti-bot",
+              "behavioral-analysis",
+              "bot-detection",
+              "captcha",
+              "fingerprinting",
+              "go",
+              "headless-browser-detection",
+              "invisible-captcha",
+              "nodejs",
+              "playwright-detection",
+              "proof-of-work",
+              "puppeteer-detection",
+              "python",
+              "scraping-protection",
+              "security",
+              "selenium-detector",
+              "self-hosted",
+              "tls-fingerprinting",
+              "web-security"
+            ]
+          },
+          "first_seen": "2026-09-10T09:17:51.090Z"
         }
       ],
       "title": "Libraries"
@@ -400,6 +442,39 @@
         },
         {
           "node_type": "item",
+          "title": "PrivateCaptcha",
+          "description": "Proof-of-Work captcha, written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Independent, privacy-first, self-hostable PoW CAPTCHA service made in EU",
+            "homepage": "https://privatecaptcha.com",
+            "id": 735001425,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-10T08:37:33Z",
+            "open_issues": 5,
+            "owner": "PrivateCaptcha",
+            "repo": "PrivateCaptcha",
+            "stars": 193,
+            "topics": [
+              "anti-abuse",
+              "anti-bot",
+              "captcha",
+              "captcha-alternative",
+              "ddos-protection",
+              "invisible-captcha",
+              "proof-of-work",
+              "protection",
+              "security",
+              "self-hosted",
+              "spam-protection"
+            ]
+          },
+          "first_seen": "2026-09-10T09:17:51.090Z"
+        },
+        {
+          "node_type": "item",
           "title": "contra/captchagen",
           "description": "Captcha generation for Node.js.",
           "children": [],
@@ -485,10 +560,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-27T11:49:18Z",
-                "open_issues": 50,
+                "open_issues": 49,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9290,
+                "stars": 9292,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -517,7 +592,7 @@
                 "open_issues": 67,
                 "owner": "kerlomz",
                 "repo": "captcha_trainer",
-                "stars": 3212,
+                "stars": 3211,
                 "topics": [
                   "captcha-recognition",
                   "ocr",
@@ -1083,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T12:00:26Z",
-            "open_issues": 483,
+            "last_commit": "2026-09-09T18:38:20Z",
+            "open_issues": 484,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76404,
+            "stars": 76420,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1254,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:18:51.391Z",
+    "last_updated": "2026-09-10T09:17:51.090Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1262,11 +1337,11 @@
       "id": 121084517,
       "language": "JavaScript",
       "license": "MIT",
-      "last_commit": "2026-04-17T22:10:48Z",
-      "open_issues": 11,
+      "last_commit": "2026-09-10T03:22:16Z",
+      "open_issues": 9,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1422,
+      "stars": 1423,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1282,7 +1357,7 @@
         "image-captcha"
       ]
     },
-    "original_repository_sha": "51b13f4b94696ae0bc6e73e0184443f9b65a7a22",
+    "original_repository_sha": "15af6b1f4c6af39b03b6f18bd84effc5e442f17b",
     "enhanced_repository": "enhansome/enhansome-captcha",
     "enhanced_repository_description": null,
     "title": "Awesome Captcha with stars"
