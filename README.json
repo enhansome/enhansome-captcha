@@ -452,8 +452,8 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T18:10:24Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-16T08:51:38Z",
+            "open_issues": 4,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
             "stars": 194,
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9300,
+                "stars": 9301,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -1162,7 +1162,7 @@
             "open_issues": 484,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76494,
+            "stars": 76511,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:42:46.228Z",
+    "last_updated": "2026-09-16T09:36:19.091Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
