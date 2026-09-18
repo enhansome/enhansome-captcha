@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3577,
+            "stars": 3578,
             "topics": [
               "abuse",
               "recaptcha",
@@ -207,7 +207,7 @@
             "open_issues": 0,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -452,7 +452,7 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T07:41:31Z",
+            "last_commit": "2026-09-18T07:33:05Z",
             "open_issues": 4,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9303,
+                "stars": 9302,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -806,7 +806,7 @@
                 "open_issues": 1,
                 "owner": "skyduy",
                 "repo": "CNN_keras",
-                "stars": 291,
+                "stars": 290,
                 "topics": [
                   "captcha",
                   "cnn-keras",
@@ -1162,7 +1162,7 @@
             "open_issues": 484,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76524,
+            "stars": 76551,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:44:44.793Z",
+    "last_updated": "2026-09-18T09:18:22.660Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1341,7 +1341,7 @@
       "open_issues": 9,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1423,
+      "stars": 1424,
       "topics": [
         "awesome",
         "awesome-list",
