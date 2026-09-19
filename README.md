@@ -20,13 +20,13 @@
 ## Libraries
 
 * [google/recaptcha](https://github.com/google/recaptcha) ⭐ 3,578 | 🐛 6 | 🌐 PHP | 📅 2026-04-28 - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
-* [mewebstudio/captcha](https://github.com/mewebstudio/captcha) ⭐ 2,586 | 🐛 133 | 🌐 PHP | 📅 2026-08-28 - Captcha for Laravel 5.
+* [mewebstudio/captcha](https://github.com/mewebstudio/captcha) ⭐ 2,587 | 🐛 133 | 🌐 PHP | 📅 2026-08-28 - Captcha for Laravel 5.
 * [ambethia/recaptcha](https://github.com/ambethia/recaptcha) ⭐ 2,005 | 🐛 50 | 🌐 Ruby | 📅 2026-06-19 - ReCaptcha helpers for ruby apps.
 * [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) ⭐ 1,847 | 🐛 54 | 🌐 PHP | 📅 2026-04-01 - No CAPTCHA reCAPTCHA For Laravel.
 * [CGregwar/Captcha](https://github.com/Gregwar/Captcha) ⭐ 1,819 | 🐛 2 | 🌐 PHP | 📅 2026-09-01 - PHP Captcha library.
 * [trekjs/captcha](https://github.com/trekjs/captcha) ⭐ 466 | 🐛 6 | 🌐 JavaScript | 📅 2024-03-31 - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
 * [lorien/captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 258 | 🐛 9 | 🌐 Python | 📅 2026-09-04 - Universal python API to different captcha solving services.
-* [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) ⭐ 213 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15 - Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.
+* [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) ⭐ 212 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15 - Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.
 * [patchca](https://code.google.com/archive/p/patchca) - Simple yet powerful CAPTCHA library written in Java.
 
 ## Generation
@@ -39,7 +39,7 @@
 * [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) ⭐ 611 | 🐛 2 | 🌐 Java | 📅 2018-01-23 - Custom ImageView to generate captcha image.
 * [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) ⭐ 477 | 🐛 21 | 🌐 C | 📅 2022-02-12 - Node.js generate captcha using c++ library CImg without install any other lib or software.
 * [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) ⭐ 306 | 🐛 11 | 🌐 JavaScript | 📅 2023-09-22 - Slider captcha supporting mobile.
-* [PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) ⭐ 195 | 🐛 4 | 🌐 Go | 📅 2026-09-18 - Proof-of-Work captcha, written in Go.
+* [PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) ⭐ 195 | 🐛 5 | 🌐 Go | 📅 2026-09-18 - Proof-of-Work captcha, written in Go.
 * [contra/captchagen](https://github.com/contra/captchagen) ⭐ 183 | 🐛 0 | 🌐 JavaScript | 📅 2018-11-20 - Captcha generation for Node.js.
 * [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) ⭐ 56 | 🐛 4 | 🌐 Rust | 📅 2020-06-04 - A simple captcha service with a single API endpoint, written in Rust.
 * [Lokno/click-captcha](https://github.com/Lokno/click-captcha) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2025-02-28 - A visual, click-based CAPTCHA for human authentication.
@@ -51,7 +51,7 @@
 
 ### General
 
-* [dessant/buster](https://github.com/dessant/buster) ⭐ 9,302 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans and monsters.
+* [dessant/buster](https://github.com/dessant/buster) ⭐ 9,300 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans and monsters.
 * [kerlomz/captcha\_trainer](https://github.com/kerlomz/captcha_trainer) ⭐ 3,214 | 🐛 67 | 🌐 Python | 📅 2025-11-09 - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 * [ypwhs/captcha\_break](https://github.com/ypwhs/captcha_break) ⭐ 2,823 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2022-02-25 - Captcha break using CNN with Keras.
 * [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) ⭐ 2,808 | 🐛 1 | 🌐 Python | 📅 2018-01-27 - Defeating Google's audio reCaptcha with 85% accuracy.
@@ -81,7 +81,7 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,551 | 🐛 484 | 🌐 C++ | 📅 2026-09-11 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,569 | 🐛 484 | 🌐 C++ | 📅 2026-09-11 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,421 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 786 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
@@ -109,4 +109,4 @@ To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

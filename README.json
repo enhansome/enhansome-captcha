@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "captcha",
               "laravel",
@@ -207,7 +207,7 @@
             "open_issues": 0,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 213,
+            "stars": 212,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -452,8 +452,8 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T07:33:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-18T16:18:07Z",
+            "open_issues": 5,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
             "stars": 195,
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9302,
+                "stars": 9300,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -1162,7 +1162,7 @@
             "open_issues": 484,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76551,
+            "stars": 76569,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:18:22.660Z",
+    "last_updated": "2026-09-19T09:05:18.230Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
