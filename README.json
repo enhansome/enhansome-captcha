@@ -15,11 +15,11 @@
             "id": 24650294,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-04-28T14:24:33Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-22T21:35:39Z",
+            "open_issues": 1,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3577,
+            "stars": 3578,
             "topics": [
               "abuse",
               "recaptcha",
@@ -452,8 +452,8 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T08:18:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-23T04:19:54Z",
+            "open_issues": 5,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
             "stars": 194,
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9300,
+                "stars": 9302,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -650,7 +650,7 @@
                 "open_issues": 1,
                 "owner": "ecthros",
                 "repo": "uncaptcha",
-                "stars": 2807,
+                "stars": 2808,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:02:52.513Z"
@@ -1048,7 +1048,7 @@
                 "open_issues": 5,
                 "owner": "996refuse",
                 "repo": "zheye",
-                "stars": 791,
+                "stars": 790,
                 "topics": [
                   "gmm",
                   "neural-network",
@@ -1075,7 +1075,7 @@
                 "open_issues": 12,
                 "owner": "taosir",
                 "repo": "cnn_handwritten_chinese_recognition",
-                "stars": 555,
+                "stars": 556,
                 "topics": [
                   "chinese",
                   "cnn",
@@ -1162,7 +1162,7 @@
             "open_issues": 484,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76618,
+            "stars": 76639,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:33:55.527Z",
+    "last_updated": "2026-09-23T09:39:15.901Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1341,7 +1341,7 @@
       "open_issues": 9,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1425,
+      "stars": 1428,
       "topics": [
         "awesome",
         "awesome-list",
