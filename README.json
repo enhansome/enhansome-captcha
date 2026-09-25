@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3578,
+            "stars": 3577,
             "topics": [
               "abuse",
               "recaptcha",
@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "captcha",
               "laravel",
@@ -97,7 +97,7 @@
             "open_issues": 55,
             "owner": "anhskohbo",
             "repo": "no-captcha",
-            "stars": 1847,
+            "stars": 1848,
             "topics": [
               "captcha",
               "captcha-recaptcha",
@@ -203,11 +203,11 @@
             "id": 1124476057,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T04:03:26Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-25T03:26:37Z",
+            "open_issues": 1,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 213,
+            "stars": 214,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -255,7 +255,7 @@
             "open_issues": 7,
             "owner": "mojocn",
             "repo": "base64Captcha",
-            "stars": 2366,
+            "stars": 2367,
             "topics": [
               "anti-spam",
               "arithmetic-captcha",
@@ -287,7 +287,7 @@
             "open_issues": 4,
             "owner": "dchest",
             "repo": "captcha",
-            "stars": 2063,
+            "stars": 2064,
             "topics": [
               "audio-captchas",
               "captcha",
@@ -452,8 +452,8 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T16:44:58Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-25T07:47:24Z",
+            "open_issues": 4,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
             "stars": 194,
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9304,
+                "stars": 9306,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -1162,7 +1162,7 @@
             "open_issues": 484,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76660,
+            "stars": 76671,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:38:18.265Z",
+    "last_updated": "2026-09-25T09:55:51.839Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
