@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "captcha",
               "laravel",
@@ -70,7 +70,7 @@
             "open_issues": 50,
             "owner": "ambethia",
             "repo": "recaptcha",
-            "stars": 2005,
+            "stars": 2006,
             "topics": [
               "captcha",
               "rails",
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1818,
+            "stars": 1817,
             "topics": [
               "anti-bot",
               "anti-spam",
@@ -203,11 +203,11 @@
             "id": 1124476057,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T04:45:30Z",
+            "last_commit": "2026-09-28T17:58:13Z",
             "open_issues": 4,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 217,
+            "stars": 218,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -313,7 +313,7 @@
             "open_issues": 24,
             "owner": "produck",
             "repo": "svg-captcha",
-            "stars": 1932,
+            "stars": 1931,
             "topics": [
               "captcha",
               "captcha-alternative",
@@ -452,7 +452,7 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T09:54:50Z",
+            "last_commit": "2026-09-28T19:39:08Z",
             "open_issues": 4,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
@@ -618,7 +618,7 @@
                 "open_issues": 50,
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2823,
+                "stars": 2824,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -1159,10 +1159,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T07:40:38Z",
-            "open_issues": 486,
+            "open_issues": 489,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76722,
+            "stars": 76745,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:20:52.121Z",
+    "last_updated": "2026-09-29T10:59:16.486Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
