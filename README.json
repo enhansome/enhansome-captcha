@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1817,
+            "stars": 1818,
             "topics": [
               "anti-bot",
               "anti-spam",
@@ -207,7 +207,7 @@
             "open_issues": 5,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -452,7 +452,7 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T18:05:40Z",
+            "last_commit": "2026-10-02T09:57:30Z",
             "open_issues": 4,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
@@ -563,7 +563,7 @@
                 "open_issues": 51,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9316,
+                "stars": 9318,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -592,7 +592,7 @@
                 "open_issues": 67,
                 "owner": "kerlomz",
                 "repo": "captcha_trainer",
-                "stars": 3213,
+                "stars": 3212,
                 "topics": [
                   "captcha-recognition",
                   "ocr",
@@ -751,7 +751,7 @@
                 "open_issues": 23,
                 "owner": "PatrickLib",
                 "repo": "captcha_recognize",
-                "stars": 570,
+                "stars": 569,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -1162,7 +1162,7 @@
             "open_issues": 492,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76779,
+            "stars": 76796,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1191,7 +1191,7 @@
             "open_issues": 39,
             "owner": "mbi",
             "repo": "django-simple-captcha",
-            "stars": 1421,
+            "stars": 1422,
             "topics": [
               "captcha",
               "django",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:16:18.699Z",
+    "last_updated": "2026-10-02T10:48:38.772Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1341,7 +1341,7 @@
       "open_issues": 9,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1429,
+      "stars": 1430,
       "topics": [
         "awesome",
         "awesome-list",
