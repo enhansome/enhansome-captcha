@@ -39,7 +39,7 @@
 * [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) ⭐ 611 | 🐛 2 | 🌐 Java | 📅 2018-01-23 - Custom ImageView to generate captcha image.
 * [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) ⭐ 477 | 🐛 21 | 🌐 C | 📅 2022-02-12 - Node.js generate captcha using c++ library CImg without install any other lib or software.
 * [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) ⭐ 306 | 🐛 11 | 🌐 JavaScript | 📅 2023-09-22 - Slider captcha supporting mobile.
-* [PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) ⭐ 195 | 🐛 4 | 🌐 Go | 📅 2026-10-02 - Proof-of-Work captcha, written in Go.
+* [PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) ⭐ 195 | 🐛 5 | 🌐 Go | 📅 2026-10-03 - Proof-of-Work captcha, written in Go.
 * [contra/captchagen](https://github.com/contra/captchagen) ⭐ 183 | 🐛 0 | 🌐 JavaScript | 📅 2018-11-20 - Captcha generation for Node.js.
 * [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) ⭐ 56 | 🐛 4 | 🌐 Rust | 📅 2020-06-04 - A simple captcha service with a single API endpoint, written in Rust.
 * [Lokno/click-captcha](https://github.com/Lokno/click-captcha) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2025-02-28 - A visual, click-based CAPTCHA for human authentication.
@@ -81,7 +81,7 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,810 | 🐛 492 | 🌐 C++ | 📅 2026-09-28 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,813 | 🐛 492 | 🌐 C++ | 📅 2026-09-28 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,419 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 786 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
