@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2588,
+            "stars": 2587,
             "topics": [
               "captcha",
               "laravel",
@@ -97,7 +97,7 @@
             "open_issues": 55,
             "owner": "anhskohbo",
             "repo": "no-captcha",
-            "stars": 1848,
+            "stars": 1847,
             "topics": [
               "captcha",
               "captcha-recaptcha",
@@ -207,7 +207,7 @@
             "open_issues": 4,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 220,
+            "stars": 219,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -452,7 +452,7 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T18:53:47Z",
+            "last_commit": "2026-10-10T07:19:00Z",
             "open_issues": 5,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
@@ -618,7 +618,7 @@
                 "open_issues": 50,
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2821,
+                "stars": 2822,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -1158,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T10:13:41Z",
+            "last_commit": "2026-10-10T06:01:54Z",
             "open_issues": 495,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76882,
+            "stars": 76889,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:35:15.712Z",
+    "last_updated": "2026-10-10T10:53:09.796Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
