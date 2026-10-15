@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3579,
+            "stars": 3578,
             "topics": [
               "abuse",
               "recaptcha",
@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2587,
+            "stars": 2586,
             "topics": [
               "captcha",
               "laravel",
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "anti-bot",
               "anti-spam",
@@ -203,8 +203,8 @@
             "id": 1124476057,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T00:48:51Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-14T16:01:32Z",
+            "open_issues": 11,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
             "stars": 221,
@@ -452,7 +452,7 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T19:16:49Z",
+            "last_commit": "2026-10-15T07:04:31Z",
             "open_issues": 5,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9335,
+                "stars": 9334,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -1159,10 +1159,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T06:01:54Z",
-            "open_issues": 498,
+            "open_issues": 500,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 76981,
+            "stars": 77004,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:51:03.311Z",
+    "last_updated": "2026-10-15T09:31:48.067Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1338,7 +1338,7 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2026-09-10T23:34:45Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
       "stars": 1437,
