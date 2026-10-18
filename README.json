@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9334,
+                "stars": 9335,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -778,7 +778,7 @@
                 "open_issues": 7,
                 "owner": "0b01",
                 "repo": "SimGAN-Captcha",
-                "stars": 438,
+                "stars": 437,
                 "topics": [
                   "captcha-solving",
                   "gan",
@@ -1162,7 +1162,7 @@
             "open_issues": 502,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77032,
+            "stars": 77050,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:56:46.850Z",
+    "last_updated": "2026-10-18T09:14:51.905Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1341,7 +1341,7 @@
       "open_issues": 12,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1437,
+      "stars": 1436,
       "topics": [
         "awesome",
         "awesome-list",

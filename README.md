@@ -51,7 +51,7 @@
 
 ### General
 
-* [dessant/buster](https://github.com/dessant/buster) ⭐ 9,334 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans and monsters.
+* [dessant/buster](https://github.com/dessant/buster) ⭐ 9,335 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans and monsters.
 * [kerlomz/captcha\_trainer](https://github.com/kerlomz/captcha_trainer) ⭐ 3,215 | 🐛 67 | 🌐 Python | 📅 2025-11-09 - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 * [ypwhs/captcha\_break](https://github.com/ypwhs/captcha_break) ⭐ 2,823 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2022-02-25 - Captcha break using CNN with Keras.
 * [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) ⭐ 2,807 | 🐛 1 | 🌐 Python | 📅 2018-01-27 - Defeating Google's audio reCaptcha with 85% accuracy.
@@ -59,7 +59,7 @@
 * [nladuo/captcha-break](https://github.com/nladuo/captcha-break) ⭐ 727 | 🐛 2 | 🌐 C++ | 📅 2018-11-06 - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
 * [ptigas/simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) ⭐ 601 | 🐛 6 | 🌐 Python | 📅 2018-01-04 - Simple CAPTCHA solver in python 🐍.
 * [PatrickLib/captcha\_recognize](https://github.com/PatrickLib/captcha_recognize) ⭐ 569 | 🐛 23 | 🌐 Python | 📅 2023-03-20 - Image Recognition captcha without image segmentation.
-* [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) ⭐ 438 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-04-24 - Solve captcha without manually labeling a training set.
+* [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) ⭐ 437 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-04-24 - Solve captcha without manually labeling a training set.
 * [skyduy/CNN\_keras](https://github.com/skyduy/CNN_keras) ⭐ 290 | 🐛 1 | 🌐 Python | 📅 2019-11-18 - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
 * [lllcho/CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) ⭐ 221 | 🐛 5 | 🌐 Python | 📅 2016-06-21 - Breaking the captcha.
 * [arunpatala/captcha.irctc](https://github.com/arunpatala/captcha.irctc) ⭐ 215 | 🐛 16 | 🌐 Lua | 📅 2020-08-05 - Reading irctc captchas with 98% accuracy using deep learning.
@@ -81,7 +81,7 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,032 | 🐛 502 | 🌐 C++ | 📅 2026-10-10 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,050 | 🐛 502 | 🌐 C++ | 📅 2026-10-10 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,419 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 786 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
@@ -109,4 +109,4 @@ To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
