@@ -15,11 +15,11 @@
             "id": 24650294,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T21:34:18Z",
+            "last_commit": "2026-10-23T01:16:12Z",
             "open_issues": 0,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3579,
+            "stars": 3578,
             "topics": [
               "abuse",
               "recaptcha",
@@ -430,7 +430,7 @@
             "open_issues": 11,
             "owner": "ArgoZhang",
             "repo": "SliderCaptcha",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "bootstrap",
               "captcha",
@@ -453,7 +453,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T17:09:31Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
             "stars": 198,
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9346,
+                "stars": 9347,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -1158,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T07:15:59Z",
-            "open_issues": 494,
+            "last_commit": "2026-10-23T06:54:45Z",
+            "open_issues": 492,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77107,
+            "stars": 77126,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T09:45:01.809Z",
+    "last_updated": "2026-10-23T09:41:01.783Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
