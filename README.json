@@ -207,7 +207,7 @@
             "open_issues": 10,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -452,11 +452,11 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T07:23:48Z",
+            "last_commit": "2026-10-25T08:03:46Z",
             "open_issues": 5,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "anti-abuse",
               "anti-bot",
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9348,
+                "stars": 9351,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -921,7 +921,7 @@
                 "open_issues": 5,
                 "owner": "arunpatala",
                 "repo": "captcha",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:02:52.513Z"
@@ -1158,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T11:00:55Z",
-            "open_issues": 493,
+            "last_commit": "2026-10-24T11:52:15Z",
+            "open_issues": 490,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77146,
+            "stars": 77160,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:13:28.552Z",
+    "last_updated": "2026-10-25T09:30:17.636Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
