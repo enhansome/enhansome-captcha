@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3578,
+            "stars": 3577,
             "topics": [
               "abuse",
               "recaptcha",
@@ -255,7 +255,7 @@
             "open_issues": 7,
             "owner": "mojocn",
             "repo": "base64Captcha",
-            "stars": 2367,
+            "stars": 2366,
             "topics": [
               "anti-spam",
               "arithmetic-captcha",
@@ -452,7 +452,7 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T10:20:57Z",
+            "last_commit": "2026-10-26T18:44:34Z",
             "open_issues": 6,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
@@ -650,7 +650,7 @@
                 "open_issues": 0,
                 "owner": "ecthros",
                 "repo": "uncaptcha",
-                "stars": 2807,
+                "stars": 2806,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:02:52.513Z"
@@ -727,7 +727,7 @@
                 "open_issues": 6,
                 "owner": "ptigas",
                 "repo": "simple-captcha-solver",
-                "stars": 601,
+                "stars": 602,
                 "topics": [
                   "captcha-solver",
                   "python"
@@ -1158,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T11:52:15Z",
-            "open_issues": 490,
+            "last_commit": "2026-10-27T05:50:49Z",
+            "open_issues": 493,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77171,
+            "stars": 77190,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T10:39:32.678Z",
+    "last_updated": "2026-10-27T10:07:56.419Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1341,7 +1341,7 @@
       "open_issues": 12,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1438,
+      "stars": 1439,
       "topics": [
         "awesome",
         "awesome-list",
