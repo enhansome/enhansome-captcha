@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1821,
+            "stars": 1822,
             "topics": [
               "anti-bot",
               "anti-spam",
@@ -727,7 +727,7 @@
                 "open_issues": 6,
                 "owner": "ptigas",
                 "repo": "simple-captcha-solver",
-                "stars": 602,
+                "stars": 603,
                 "topics": [
                   "captcha-solver",
                   "python"
@@ -995,7 +995,7 @@
                 "open_issues": 97,
                 "owner": "nickliqian",
                 "repo": "cnn_captcha",
-                "stars": 2879,
+                "stars": 2877,
                 "topics": [
                   "cnn",
                   "python",
@@ -1159,10 +1159,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-28T11:18:10Z",
-            "open_issues": 494,
+            "open_issues": 496,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77265,
+            "stars": 77282,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:40:19.439Z",
+    "last_updated": "2026-11-01T11:35:25.121Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
