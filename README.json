@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3578,
+            "stars": 3579,
             "topics": [
               "abuse",
               "recaptcha",
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9357,
+                "stars": 9359,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -618,7 +618,7 @@
                 "open_issues": 50,
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2821,
+                "stars": 2822,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -995,7 +995,7 @@
                 "open_issues": 97,
                 "owner": "nickliqian",
                 "repo": "cnn_captcha",
-                "stars": 2877,
+                "stars": 2876,
                 "topics": [
                   "cnn",
                   "python",
@@ -1158,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T12:57:14Z",
-            "open_issues": 489,
+            "last_commit": "2026-11-02T18:20:18Z",
+            "open_issues": 488,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77298,
+            "stars": 77313,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:58:07.575Z",
+    "last_updated": "2026-11-03T12:30:43.093Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1341,7 +1341,7 @@
       "open_issues": 14,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1440,
+      "stars": 1439,
       "topics": [
         "awesome",
         "awesome-list",
