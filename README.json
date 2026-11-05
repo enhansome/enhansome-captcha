@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2589,
+            "stars": 2590,
             "topics": [
               "captcha",
               "laravel",
@@ -452,8 +452,8 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T05:49:07Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-05T10:01:58Z",
+            "open_issues": 8,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
             "stars": 199,
@@ -563,7 +563,7 @@
                 "open_issues": 50,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9365,
+                "stars": 9366,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -592,7 +592,7 @@
                 "open_issues": 67,
                 "owner": "kerlomz",
                 "repo": "captcha_trainer",
-                "stars": 3217,
+                "stars": 3218,
                 "topics": [
                   "captcha-recognition",
                   "ocr",
@@ -727,7 +727,7 @@
                 "open_issues": 6,
                 "owner": "ptigas",
                 "repo": "simple-captcha-solver",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "captcha-solver",
                   "python"
@@ -751,7 +751,7 @@
                 "open_issues": 23,
                 "owner": "PatrickLib",
                 "repo": "captcha_recognize",
-                "stars": 568,
+                "stars": 569,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -1159,10 +1159,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T18:20:18Z",
-            "open_issues": 488,
+            "open_issues": 489,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77334,
+            "stars": 77361,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:40:57.988Z",
+    "last_updated": "2026-11-05T12:51:19.492Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
