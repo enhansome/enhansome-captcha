@@ -452,7 +452,7 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T06:06:40Z",
+            "last_commit": "2026-11-06T19:19:58Z",
             "open_issues": 5,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
@@ -592,7 +592,7 @@
                 "open_issues": 67,
                 "owner": "kerlomz",
                 "repo": "captcha_trainer",
-                "stars": 3219,
+                "stars": 3218,
                 "topics": [
                   "captcha-recognition",
                   "ocr",
@@ -618,7 +618,7 @@
                 "open_issues": 50,
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2823,
+                "stars": 2822,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -995,7 +995,7 @@
                 "open_issues": 97,
                 "owner": "nickliqian",
                 "repo": "cnn_captcha",
-                "stars": 2876,
+                "stars": 2877,
                 "topics": [
                   "cnn",
                   "python",
@@ -1159,10 +1159,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T18:20:18Z",
-            "open_issues": 490,
+            "open_issues": 491,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77382,
+            "stars": 77403,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:36:44.255Z",
+    "last_updated": "2026-11-07T11:24:36.622Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1338,7 +1338,7 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2026-10-20T16:39:03Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
       "stars": 1440,

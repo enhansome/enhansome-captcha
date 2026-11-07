@@ -52,8 +52,8 @@
 ### General
 
 * [dessant/buster](https://github.com/dessant/buster) ⭐ 9,368 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans and monsters.
-* [kerlomz/captcha\_trainer](https://github.com/kerlomz/captcha_trainer) ⭐ 3,219 | 🐛 67 | 🌐 Python | 📅 2025-11-09 - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
-* [ypwhs/captcha\_break](https://github.com/ypwhs/captcha_break) ⭐ 2,823 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2022-02-25 - Captcha break using CNN with Keras.
+* [kerlomz/captcha\_trainer](https://github.com/kerlomz/captcha_trainer) ⭐ 3,218 | 🐛 67 | 🌐 Python | 📅 2025-11-09 - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
+* [ypwhs/captcha\_break](https://github.com/ypwhs/captcha_break) ⭐ 2,822 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2022-02-25 - Captcha break using CNN with Keras.
 * [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) ⭐ 2,805 | 🐛 0 | 🌐 Python | 📅 2018-01-27 - Defeating Google's audio reCaptcha with 85% accuracy.
 * [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) ⚠️ Archived - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
 * [nladuo/captcha-break](https://github.com/nladuo/captcha-break) ⭐ 727 | 🐛 2 | 🌐 C++ | 📅 2018-11-06 - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
@@ -73,7 +73,7 @@
 
 ### Chinese
 
-* [nickliqian/cnn\_captcha](https://github.com/nickliqian/cnn_captcha) ⭐ 2,876 | 🐛 97 | 🌐 Python | 📅 2022-12-08 - Use cnn recognize captcha by tensorflow.
+* [nickliqian/cnn\_captcha](https://github.com/nickliqian/cnn_captcha) ⭐ 2,877 | 🐛 97 | 🌐 Python | 📅 2022-12-08 - Use cnn recognize captcha by tensorflow.
 * [burness/chinese\_hand\_write\_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) ⭐ 1,108 | 🐛 10 | 🌐 Python | 📅 2019-05-17 - Handwritten chinese recognition.
 * [muchrooms/zheye](https://github.com/muchrooms/zheye) ⭐ 790 | 🐛 5 | 🌐 Python | 📅 2023-10-08 - Chinese captcha recognition program for handstand character of zhihu.
 * [taosir/cnn\_handwritten\_chinese\_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) ⭐ 554 | 🐛 12 | 🌐 Python | 📅 2022-09-23 - As the name shows, handwritten\_chinese\_recognition with cnn.
@@ -82,7 +82,7 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,382 | 🐛 490 | 🌐 C++ | 📅 2026-11-02 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,403 | 🐛 491 | 🌐 C++ | 📅 2026-11-02 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,419 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 818 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 785 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
@@ -110,4 +110,4 @@ To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
