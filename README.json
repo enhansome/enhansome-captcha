@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3580,
+            "stars": 3579,
             "topics": [
               "abuse",
               "recaptcha",
@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2592,
+            "stars": 2591,
             "topics": [
               "captcha",
               "laravel",
@@ -215,7 +215,6 @@
               "bot-detection",
               "captcha",
               "fingerprinting",
-              "go",
               "headless-browser-detection",
               "invisible-captcha",
               "nodejs",
@@ -228,6 +227,7 @@
               "selenium-detector",
               "self-hosted",
               "tls-fingerprinting",
+              "vulnify",
               "web-security"
             ]
           },
@@ -452,8 +452,8 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T19:58:09Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-14T06:00:58Z",
+            "open_issues": 6,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
             "stars": 199,
@@ -560,10 +560,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-11T12:42:26Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9379,
+                "stars": 9383,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -650,7 +650,7 @@
                 "open_issues": 0,
                 "owner": "ecthros",
                 "repo": "uncaptcha",
-                "stars": 2804,
+                "stars": 2805,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:02:52.513Z"
@@ -1158,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T06:18:23Z",
-            "open_issues": 493,
+            "last_commit": "2026-11-13T22:51:33Z",
+            "open_issues": 503,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77493,
+            "stars": 77510,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1187,8 +1187,8 @@
             "id": 3929597,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-30T13:53:47Z",
-            "open_issues": 39,
+            "last_commit": "2026-11-14T09:06:47Z",
+            "open_issues": 37,
             "owner": "mbi",
             "repo": "django-simple-captcha",
             "stars": 1419,
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:43:38.727Z",
+    "last_updated": "2026-11-14T11:52:29.381Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
