@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2591,
+            "stars": 2592,
             "topics": [
               "captcha",
               "laravel",
@@ -203,11 +203,11 @@
             "id": 1124476057,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T00:48:51Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-18T01:40:28Z",
+            "open_issues": 8,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -313,7 +313,7 @@
             "open_issues": 24,
             "owner": "produck",
             "repo": "svg-captcha",
-            "stars": 1934,
+            "stars": 1935,
             "topics": [
               "captcha",
               "captcha-alternative",
@@ -452,7 +452,7 @@
             "id": 735001425,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T07:36:49Z",
+            "last_commit": "2026-11-17T20:52:28Z",
             "open_issues": 5,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
@@ -560,10 +560,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-16T17:13:56Z",
-                "open_issues": 53,
+                "open_issues": 52,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9392,
+                "stars": 9393,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -1075,7 +1075,7 @@
                 "open_issues": 12,
                 "owner": "taosir",
                 "repo": "cnn_handwritten_chinese_recognition",
-                "stars": 555,
+                "stars": 554,
                 "topics": [
                   "chinese",
                   "cnn",
@@ -1159,10 +1159,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-15T19:53:59Z",
-            "open_issues": 490,
+            "open_issues": 491,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77562,
+            "stars": 77578,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:00:00.353Z",
+    "last_updated": "2026-11-18T13:34:59.255Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
