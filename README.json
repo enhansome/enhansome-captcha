@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2592,
+            "stars": 2591,
             "topics": [
               "captcha",
               "laravel",
@@ -97,7 +97,7 @@
             "open_issues": 55,
             "owner": "anhskohbo",
             "repo": "no-captcha",
-            "stars": 1847,
+            "stars": 1846,
             "topics": [
               "captcha",
               "captcha-recaptcha",
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "Gregwar",
             "repo": "Captcha",
-            "stars": 1823,
+            "stars": 1822,
             "topics": [
               "anti-bot",
               "anti-spam",
@@ -151,7 +151,7 @@
             "open_issues": 6,
             "owner": "trekjs",
             "repo": "captcha",
-            "stars": 467,
+            "stars": 465,
             "topics": [
               "captcha",
               "pure-javascript"
@@ -207,7 +207,7 @@
             "open_issues": 8,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 244,
+            "stars": 248,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -255,7 +255,7 @@
             "open_issues": 8,
             "owner": "mojocn",
             "repo": "base64Captcha",
-            "stars": 2364,
+            "stars": 2363,
             "topics": [
               "anti-spam",
               "arithmetic-captcha",
@@ -456,7 +456,7 @@
             "open_issues": 5,
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "anti-abuse",
               "anti-bot",
@@ -563,7 +563,7 @@
                 "open_issues": 52,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9394,
+                "stars": 9393,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -592,7 +592,7 @@
                 "open_issues": 67,
                 "owner": "kerlomz",
                 "repo": "captcha_trainer",
-                "stars": 3217,
+                "stars": 3216,
                 "topics": [
                   "captcha-recognition",
                   "ocr",
@@ -618,7 +618,7 @@
                 "open_issues": 50,
                 "owner": "ypwhs",
                 "repo": "captcha_break",
-                "stars": 2821,
+                "stars": 2820,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -671,7 +671,7 @@
                 "open_issues": 3,
                 "owner": "JasonLiTW",
                 "repo": "simple-railway-captcha-solver",
-                "stars": 815,
+                "stars": 814,
                 "topics": [
                   "captcha-breaking",
                   "captcha-generator",
@@ -727,7 +727,7 @@
                 "open_issues": 6,
                 "owner": "ptigas",
                 "repo": "simple-captcha-solver",
-                "stars": 607,
+                "stars": 606,
                 "topics": [
                   "captcha-solver",
                   "python"
@@ -751,7 +751,7 @@
                 "open_issues": 23,
                 "owner": "PatrickLib",
                 "repo": "captcha_recognize",
-                "stars": 570,
+                "stars": 569,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -995,7 +995,7 @@
                 "open_issues": 97,
                 "owner": "nickliqian",
                 "repo": "cnn_captcha",
-                "stars": 2877,
+                "stars": 2876,
                 "topics": [
                   "cnn",
                   "python",
@@ -1020,7 +1020,7 @@
                 "open_issues": 10,
                 "owner": "burness",
                 "repo": "tensorflow-101",
-                "stars": 1109,
+                "stars": 1108,
                 "topics": [
                   "deeplearning",
                   "flask",
@@ -1048,7 +1048,7 @@
                 "open_issues": 5,
                 "owner": "996refuse",
                 "repo": "zheye",
-                "stars": 791,
+                "stars": 789,
                 "topics": [
                   "gmm",
                   "neural-network",
@@ -1075,7 +1075,7 @@
                 "open_issues": 12,
                 "owner": "taosir",
                 "repo": "cnn_handwritten_chinese_recognition",
-                "stars": 554,
+                "stars": 553,
                 "topics": [
                   "chinese",
                   "cnn",
@@ -1158,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:40:24Z",
-            "open_issues": 489,
+            "last_commit": "2026-11-20T05:34:01Z",
+            "open_issues": 488,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77586,
+            "stars": 77601,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1191,7 +1191,7 @@
             "open_issues": 37,
             "owner": "mbi",
             "repo": "django-simple-captcha",
-            "stars": 1420,
+            "stars": 1419,
             "topics": [
               "captcha",
               "django",
@@ -1258,7 +1258,7 @@
             "open_issues": 20,
             "owner": "dapphp",
             "repo": "securimage",
-            "stars": 576,
+            "stars": 573,
             "topics": [
               "captcha"
             ]
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:01:29.861Z",
+    "last_updated": "2026-11-20T13:44:35.633Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1341,7 +1341,7 @@
       "open_issues": 17,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1443,
+      "stars": 1444,
       "topics": [
         "awesome",
         "awesome-list",
