@@ -44,7 +44,7 @@
             "open_issues": 133,
             "owner": "mewebstudio",
             "repo": "captcha",
-            "stars": 2591,
+            "stars": 2590,
             "topics": [
               "captcha",
               "laravel",
@@ -161,6 +161,48 @@
         },
         {
           "node_type": "item",
+          "title": "WebDecoy/FCaptcha",
+          "description": "Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted, invisible CAPTCHA that detects AI agents driving real browsers. GDPR, WCAG 2.2 AA, and EAA: no cookies, no third-party data sharing, and no visual or audio puzzle. With a false-positive budget enforced in CI. Proof of work, drop-in for Turnstile and reCAPTCHA.",
+            "homepage": "https://webdecoy.com/product/fcaptcha/",
+            "id": 1124476057,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-21T04:49:04Z",
+            "open_issues": 10,
+            "owner": "WebDecoy",
+            "repo": "FCaptcha",
+            "stars": 261,
+            "topics": [
+              "ai-bot-detection",
+              "anti-bot",
+              "behavioral-analysis",
+              "bot-detection",
+              "captcha",
+              "fingerprinting",
+              "headless-browser-detection",
+              "invisible-captcha",
+              "nodejs",
+              "playwright-detection",
+              "proof-of-work",
+              "puppeteer-detection",
+              "python",
+              "scraping-protection",
+              "security",
+              "selenium-detector",
+              "self-hosted",
+              "tls-fingerprinting",
+              "vulnify",
+              "web-security"
+            ]
+          },
+          "first_seen": "2026-09-10T09:17:51.090Z"
+        },
+        {
+          "node_type": "item",
           "title": "lorien/captcha_solver",
           "description": "Universal python API to different captcha solving services.",
           "children": [],
@@ -190,48 +232,6 @@
             ]
           },
           "first_seen": "2026-08-28T17:02:52.513Z"
-        },
-        {
-          "node_type": "item",
-          "title": "WebDecoy/FCaptcha",
-          "description": "Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Self-hosted, invisible CAPTCHA that detects AI agents driving real browsers. GDPR, WCAG 2.2 AA, and EAA: no cookies, no third-party data sharing, and no visual or audio puzzle. With a false-positive budget enforced in CI. Proof of work, drop-in for Turnstile and reCAPTCHA.",
-            "homepage": "https://webdecoy.com/product/fcaptcha/",
-            "id": 1124476057,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-11-18T15:14:55Z",
-            "open_issues": 8,
-            "owner": "WebDecoy",
-            "repo": "FCaptcha",
-            "stars": 248,
-            "topics": [
-              "ai-bot-detection",
-              "anti-bot",
-              "behavioral-analysis",
-              "bot-detection",
-              "captcha",
-              "fingerprinting",
-              "headless-browser-detection",
-              "invisible-captcha",
-              "nodejs",
-              "playwright-detection",
-              "proof-of-work",
-              "puppeteer-detection",
-              "python",
-              "scraping-protection",
-              "security",
-              "selenium-detector",
-              "self-hosted",
-              "tls-fingerprinting",
-              "vulnify",
-              "web-security"
-            ]
-          },
-          "first_seen": "2026-09-10T09:17:51.090Z"
         }
       ],
       "title": "Libraries"
@@ -563,7 +563,7 @@
                 "open_issues": 52,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9393,
+                "stars": 9396,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -751,7 +751,7 @@
                 "open_issues": 23,
                 "owner": "PatrickLib",
                 "repo": "captcha_recognize",
-                "stars": 569,
+                "stars": 568,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -1159,10 +1159,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T05:34:01Z",
-            "open_issues": 488,
+            "open_issues": 491,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77601,
+            "stars": 77607,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T13:44:35.633Z",
+    "last_updated": "2026-11-21T13:09:30.494Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
