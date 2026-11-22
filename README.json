@@ -97,7 +97,7 @@
             "open_issues": 55,
             "owner": "anhskohbo",
             "repo": "no-captcha",
-            "stars": 1846,
+            "stars": 1847,
             "topics": [
               "captcha",
               "captcha-recaptcha",
@@ -171,11 +171,11 @@
             "id": 1124476057,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T04:49:04Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-22T02:22:37Z",
+            "open_issues": 8,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 261,
+            "stars": 270,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -313,7 +313,7 @@
             "open_issues": 24,
             "owner": "produck",
             "repo": "svg-captcha",
-            "stars": 1935,
+            "stars": 1933,
             "topics": [
               "captcha",
               "captcha-alternative",
@@ -563,7 +563,7 @@
                 "open_issues": 52,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9396,
+                "stars": 9403,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -1162,7 +1162,7 @@
             "open_issues": 491,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77607,
+            "stars": 77619,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:09:30.494Z",
+    "last_updated": "2026-11-22T12:56:40.582Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
@@ -1341,7 +1341,7 @@
       "open_issues": 17,
       "owner": "ZYSzys",
       "repo": "awesome-captcha",
-      "stars": 1444,
+      "stars": 1445,
       "topics": [
         "awesome",
         "awesome-list",
