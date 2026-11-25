@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "google",
             "repo": "recaptcha",
-            "stars": 3580,
+            "stars": 3581,
             "topics": [
               "abuse",
               "recaptcha",
@@ -171,11 +171,11 @@
             "id": 1124476057,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T05:18:47Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-25T15:00:45Z",
+            "open_issues": 9,
             "owner": "WebDecoy",
             "repo": "FCaptcha",
-            "stars": 282,
+            "stars": 286,
             "topics": [
               "ai-bot-detection",
               "anti-bot",
@@ -563,7 +563,7 @@
                 "open_issues": 52,
                 "owner": "dessant",
                 "repo": "buster",
-                "stars": 9408,
+                "stars": 9410,
                 "topics": [
                   "browser-extension",
                   "captcha",
@@ -592,7 +592,7 @@
                 "open_issues": 67,
                 "owner": "kerlomz",
                 "repo": "captcha_trainer",
-                "stars": 3216,
+                "stars": 3217,
                 "topics": [
                   "captcha-recognition",
                   "ocr",
@@ -751,7 +751,7 @@
                 "open_issues": 23,
                 "owner": "PatrickLib",
                 "repo": "captcha_recognize",
-                "stars": 568,
+                "stars": 569,
                 "topics": [
                   "captcha",
                   "captcha-breaking",
@@ -1158,11 +1158,11 @@
             "id": 22887094,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T09:03:18Z",
+            "last_commit": "2026-11-24T21:22:03Z",
             "open_issues": 490,
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 77643,
+            "stars": 77657,
             "topics": [
               "hacktoberfest",
               "lstm",
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:26:12.710Z",
+    "last_updated": "2026-11-25T15:11:37.515Z",
     "original_repository_info": {
       "archived": false,
       "description": ":key: Curated list of awesome captcha libraries and crack tools.",
