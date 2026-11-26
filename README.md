@@ -25,7 +25,7 @@
 * [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) ⭐ 1,847 | 🐛 55 | 🌐 PHP | 📅 2026-04-01 - No CAPTCHA reCAPTCHA For Laravel.
 * [CGregwar/Captcha](https://github.com/Gregwar/Captcha) ⭐ 1,823 | 🐛 2 | 🌐 PHP | 📅 2026-09-01 - PHP Captcha library.
 * [trekjs/captcha](https://github.com/trekjs/captcha) ⭐ 465 | 🐛 6 | 🌐 JavaScript | 📅 2024-03-31 - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
-* [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) ⭐ 286 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-25 - Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.
+* [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) ⭐ 288 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-26 - Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.
 * [lorien/captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 258 | 🐛 9 | 🌐 Python | 📅 2026-09-04 - Universal python API to different captcha solving services.
 * [patchca](https://code.google.com/archive/p/patchca) - Simple yet powerful CAPTCHA library written in Java.
 
@@ -82,11 +82,11 @@
 
 ## Tools
 
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,657 | 🐛 490 | 🌐 C++ | 📅 2026-11-24 - Tesseract Open Source OCR Engine.
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,673 | 🐛 485 | 🌐 C++ | 📅 2026-11-26 - Tesseract Open Source OCR Engine.
 * [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,419 | 🐛 37 | 🌐 Python | 📅 2026-11-14 - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 * [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) ⭐ 818 | 🐛 16 | 🌐 JavaScript | 📅 2011-08-22 - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 * [Negative-captcha](https://github.com/subwindow/negative-captcha) ⭐ 785 | 🐛 14 | 🌐 Ruby | 📅 2023-07-13 - A plugin to make the process of creating a negative captcha in Rails much less painful.
-* [Securimage](https://github.com/dapphp/securimage) ⭐ 573 | 🐛 20 | 🌐 PHP | 📅 2023-07-31 - PHP CAPTCHA Script.
+* [Securimage](https://github.com/dapphp/securimage) ⭐ 574 | 🐛 20 | 🌐 PHP | 📅 2023-07-31 - PHP CAPTCHA Script.
 * [Captcha\_solver](https://github.com/lorien/captcha_solver) ⭐ 258 | 🐛 9 | 🌐 Python | 📅 2026-09-04 - Univeral API to captcha solving services.
 
 ## Other
@@ -110,4 +110,4 @@ To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
